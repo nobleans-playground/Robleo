@@ -47,7 +47,7 @@ PROTO robleo [
       }
       HingeJoint {
         jointParameters HingeJointParameters {
-          axis 0.000000 1.000000 0.000000
+          axis 0.000000 1.000000 0.000796
           anchor 0.000000 0.250000 0.000000
           dampingConstant 0.0
           staticFriction 0.0
@@ -109,7 +109,7 @@ PROTO robleo [
       }
       HingeJoint {
         jointParameters HingeJointParameters {
-          axis 0.000000 1.000000 0.000000
+          axis 0.000000 -1.000000 0.000796
           anchor 0.000000 -0.250000 0.000000
           dampingConstant 0.0
           staticFriction 0.0
